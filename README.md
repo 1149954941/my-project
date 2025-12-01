@@ -1,6 +1,4 @@
-# Odin's Eye
-
-![Odin's Eye Banner](docs/banner.png)
+# 👋 Hi, I’m Ma Fude
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Go Version](https://img.shields.io/badge/Go-1.21-blue.svg)]()
@@ -8,41 +6,29 @@
 
 ---
 
-## Project Overview
+## 💡 About Me
 
-奥丁之眼 (Odin's Eye) 是一个专注于云原生技术和系统监控的开源项目，旨在提供高效、可靠的解决方案。
-
----
-
-## Features 功能特点
-
-- 🔭 当前核心项目：奥丁之眼 (Odin's Eye)  
-- 🌱 学习云原生技术  
-- 👯 希望在开源社区合作  
-- ⚡ 高性能系统监控与日志分析  
-- 🛠 支持模块化扩展，便于二次开发  
+- 🎓 Computer Science Student  
+- ⚡ Tech Stack: Go, Python, JavaScript, Web Development, Cloud Native  
+- 🌱 Currently learning Cloud Native & Web Dev  
+- 📫 Contact: email@example.com | [LinkedIn](https://linkedin.com/in/yourname)
 
 ---
 
-## Tech Stack 技术栈
+## 🚀 Featured Projects
 
-- Go  
-- Docker  
-- Kubernetes  
-- Prometheus / Grafana  
-- RESTful API  
+### 1. [Odin's Eye](https://github.com/1149954941/my-project)  
+![Odin's Eye Banner](docs/banner.png)
 
----
+**Description:** 奥丁之眼 (Odin's Eye) 是一个专注于云原生技术和系统监控的开源项目。  
 
-## Installation 安装与运行
+**Features:**
+- 高性能系统监控与日志分析  
+- 模块化扩展，便于二次开发  
 
+**Installation & Run:**
 ```bash
-# 克隆仓库
 git clone https://github.com/1149954941/my-project.git
 cd my-project
-
-# 安装依赖
 go mod tidy
-
-# 启动项目
 go run main.go
