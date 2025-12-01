@@ -2,7 +2,7 @@
 
 > 一个学生用 AI 提升学习效率的实验场  
 > 记录如何用大模型整理笔记、生成测验、解释概念、构建个人知识库
-
+- [牛顿第一定律学习笔记](notes/physics_newton_first_law.md)
 ![License](https://img.shields.io/github/license/1149954941/ai-study-lab)
 ![Last Commit](https://img.shields.io/github/last-commit/1149954941/ai-study-lab)
 ![Repo Size](https://img.shields.io/github/repo-size/1149954941/ai-study-lab)
