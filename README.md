@@ -23,3 +23,4 @@
 ---
 
 ## 📂 项目结构
+feat: add Newton's first law study note
